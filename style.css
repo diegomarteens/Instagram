@@ -6,6 +6,7 @@ body{
     height: 500px;
     position: relative;
     background-color: white;
+    margin: auto;
 }
 
 .html-icon{
@@ -69,14 +70,11 @@ img {
     max-width: 100%;
 }
 
-
-
-.insta-comments {
-    
-}
-
-.insta-rightcomments {
-
+.comment-icon{
+    position: absolute;
+    right: 5px;
+    top: 248px;
+    font-size: 24px;
 }
 
 .icon-comm{
@@ -92,12 +90,14 @@ p {
     line-height: 15px;
     color: #333333;
     padding: 0 12px;
+    text-align: justify;
 }
 
 .insta-like-left-col {
-    flex: 1 1 auto;
-    display: flex;
-    align-items: center;
+    background: #fff;
+    padding: 8px 0;
+    max-width: 320px;
+    margin: auto;
 }
 
 
