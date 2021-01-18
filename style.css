@@ -38,15 +38,7 @@ p{
     padding-left: 10px;
 }
 
-/*.insta-name {
-    font-size: 14px;
-    font-weight: 500;
-    line-height: 16px;
-    color: #000000;
-    padding-left: 10px;
-}*/
-
-.insta-location {
+.insta-location{
     font-size: 12px;
     line-height: 14px;
     color: #838383;
@@ -54,20 +46,7 @@ p{
     margin-left: 1px;
 }    
 
-/*
-fa-ellipsis-v {
-    display: inline-block;
-    width: 50%;
-    flex: 0 0 16px;
-    float: right;
-}
-.instagram-cover-photo {
-    overflow: hidden;
-    max-height: 120px;
-}
-*/
-
-img {
+img{
     max-width: 100%;
 }
 
@@ -77,14 +56,7 @@ img {
     top: 248px;
     font-size: 24px;
 }
-/*
-.icon-comm{
-    display: inline-block;
-    width: 50%;
-    flex: 0 0 16px;
-    float: right;
-}
-*/
+
 p {
     font-size: 13px;
     font-weight: 300;
