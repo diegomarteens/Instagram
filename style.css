@@ -1,0 +1,104 @@
+body{
+    background: black;
+}
+.post-instagram{
+    width: 350px;
+    height: 500px;
+    position: relative;
+    background-color: white;
+}
+
+.html-icon{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    font-size: 15px;
+}
+
+.menu-icon{
+    position: absolute;
+    right: 5px;
+    top: 10px;
+    font-size: 24px;
+}
+p{
+    margin: 0;
+}
+
+.instagram-block {
+    background: #fff;
+    overflow: hidden;
+    padding: 8px 0;
+    max-width: 320px;
+    margin: auto;
+}
+
+.insta-details-left {
+    padding-left: 10px;
+}
+
+.insta-name {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    color: #000000;
+    padding-left: 10px;
+}
+
+.insta-location {
+    font-size: 12px;
+    line-height: 14px;
+    color: #838383;
+    padding-left: 8px;
+    margin-left: 1px;
+}    
+
+fa-ellipsis-v {
+    display: inline-block;
+    width: 50%;
+    flex: 0 0 16px;
+    float: right;
+}
+
+.instagram-cover-photo {
+    overflow: hidden;
+    max-height: 120px;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+
+.insta-comments {
+    
+}
+
+.insta-rightcomments {
+
+}
+
+.icon-comm{
+    display: inline-block;
+    width: 50%;
+    flex: 0 0 16px;
+    float: right;
+}
+
+p {
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 15px;
+    color: #333333;
+    padding: 0 12px;
+}
+
+.insta-like-left-col {
+    flex: 1 1 auto;
+    display: flex;
+    align-items: center;
+}
+
+
+        
